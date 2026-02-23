@@ -1,6 +1,6 @@
 # TrailCurrent Air Quality Module
 
-Air quality sensor module for monitoring environmental conditions including temperature, humidity, and air quality metrics.
+Air quality sensor module for monitoring environmental conditions including temperature, humidity, and air quality metrics. Part of the [TrailCurrent](https://trailcurrent.com) open-source vehicle platform.
 
 ## Hardware Overview
 
